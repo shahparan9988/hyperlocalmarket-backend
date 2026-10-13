@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>HyperLocalMarket.Api</RootNamespace>
     <AssemblyName>HyperLocalMarket.Api</AssemblyName>
+    <UserSecretsId>e4405902-3303-4362-8c37-14f4df6cb1ae</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
